@@ -2,21 +2,6 @@
 基于QT的S-DES交互界面
 采用C++/QT框架设计可交互的S-DESGUI界面
 开始界面：
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
 ![C6DPXMWLC)JNT$D4CKQR9SF](https://github.com/xxxderui/QT-S-DES/assets/126744071/f318121e-8f07-4f79-920d-9e28ea196a52)
 进入后来到菜单界面，主要有三种S-DES模拟器：
 
