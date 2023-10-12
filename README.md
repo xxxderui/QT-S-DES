@@ -7,9 +7,13 @@
 
 
 
-
 ![C6DPXMWLC)JNT$D4CKQR9SF](https://github.com/xxxderui/QT-S-DES/assets/126744071/f318121e-8f07-4f79-920d-9e28ea196a52)
 进入后来到菜单界面，主要有三种S-DES模拟器：
+
+
+
+
+
 ![SX~PMT%15HWF$WM3(ND6~4W](https://github.com/xxxderui/QT-S-DES/assets/126744071/5e01711d-c020-4999-a409-7f32f2ee2dca)
 
 首先是二进制S-DES
