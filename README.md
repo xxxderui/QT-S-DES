@@ -27,6 +27,6 @@
 
 最后是暴力破解部分
 需要输入截获的明文以及两个八位二进制密文
-更具算法破解秘钥
+根据算法破解秘钥
 ![%`9Q{GL~}Y~J5ML0 BAKM@P](https://github.com/xxxderui/QT-S-DES/assets/126744071/c78a5601-107b-4c1c-83f9-d159cb7ffd2b)
 ![CNQC5NDD~_Q5PARW~WC2R_A](https://github.com/xxxderui/QT-S-DES/assets/126744071/addb240a-54b3-49f0-9830-904fbc26a488)
